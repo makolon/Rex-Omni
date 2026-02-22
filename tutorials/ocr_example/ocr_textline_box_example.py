@@ -14,7 +14,7 @@ from rex_omni import RexOmniVisualize, RexOmniWrapper
 
 def main():
     # Model path - replace with your actual model path
-    model_path = "/comp_robot/jiangqing/projects/2023/research/R1/QwenSFTOfficial/open_source/IDEA-Research/Rex-Omni"
+    model_path = "IDEA-Research/Rex-Omni"
 
     print("🚀 Initializing Rex Omni model...")
 
